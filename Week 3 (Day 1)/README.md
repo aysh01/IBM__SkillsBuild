@@ -34,33 +34,31 @@ To run the project locally, follow these steps:
 ```bash
 git clone https://github.com/aysh01/IBM__SkillsBuild/blob/main/Week%203%20(Day%201)/BreastCancerPrediction.ipynb
 ```
-Install dependencies:
-Copy code
+## Install dependencies:
+```python
 pip install -r requirements.txt
-Run the main script:
-css
-Copy code
-python main.py
-Models
+```
+## Models
 Several machine learning models were trained and evaluated for this project, including:
 
 Logistic Regression
-Decision Tree
-Random Forest
-Support Vector Machine (SVM)
-Neural Network (optional if applicable)
 Evaluation
-Model performance was evaluated using metrics such as accuracy, precision, recall, and F1-score. Cross-validation or train-test split was used to ensure robust evaluation.
 
-Contributing
+## Model performance was evaluated using metrics such as<br>
+<h2>accuracy, precision, recall, and F1-score.<br>Train-test split was used to ensure robust evaluation.</h2>
+
+## Contributing
 Contributions are welcome. If you want to contribute to this project, please follow these steps:
 
-Fork the repository
+## Fork the repository
 Create a new branch (git checkout -b feature)
-Make your changes
+
+## Make your changes
 Commit your changes (git commit -am 'Add new feature')
-Push to the branch (git push origin feature)
+
+## Push to the branch (git push origin feature)
 Create a new Pull Request
-License
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
+
+## License
+This project is licensed under the [License Name] License.
 
