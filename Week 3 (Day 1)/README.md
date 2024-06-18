@@ -45,7 +45,7 @@ Logistic Regression
 Evaluation
 
 ## Model performance was evaluated using metrics such as<br>
-<h2>👉Accuracy,<br>👉Precision,<br><br>👉Train-test split was used to ensure robust evaluation.</h2>
+<h2>👉Accuracy,<br>👉Precision,<br>👉Train-test split was used to ensure robust evaluation.</h2>
 
 ## Contributing
 Contributions are welcome. If you want to contribute to this project, please follow these steps:
