@@ -31,9 +31,9 @@ This project focuses on predicting breast cancer based on certain features using
 To run the project locally, follow these steps:
 
 Clone the repository:
-bash
-Copy code
+```bash
 git clone https://github.com/yourusername/breastcancerprediction.git
+```
 Install dependencies:
 Copy code
 pip install -r requirements.txt
