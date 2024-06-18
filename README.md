@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     <div align="center">
-  <img src="https://photos.app.goo.gl/VDBspkcFfBfEAgk96" width="600" height="300"/><br>
+  <img src="https://github.com/aysh01/IBM__SkillsBuild/blob/main/Offer-letter.jpg" width="600" height="300"/><br>
       <hr>
       <div align="left">
 :woman_technologist: This, is a Oasis Infobyte Internship Page..<br>
