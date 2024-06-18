@@ -19,13 +19,15 @@ This project focuses on predicting breast cancer based on certain features using
 
 <h2>Dependecies</h2>
 
-<h2>Libraries:</h2>
+## Libraries: 
+```bash
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+```
 
-<ul>numpy</ul>
-<ul>pandas</ul>
-<ul>scikit-learn</ul>
-<ul>matplotlib</ul>
-<ul>seaborn</ul>
 <hr>
 <h1>Usage</h1><br>
 To run the project locally, follow these steps:
