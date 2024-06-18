@@ -27,10 +27,10 @@ This project focuses on predicting breast cancer based on certain features using
 <ul>matplotlib</ul>
 <ul>seaborn</ul>
 <hr>
-<h1>Usage</h1>
+<h1>Usage</h1><br>
 To run the project locally, follow these steps:
 
-Clone the repository:
+## Clone the repository:
 ```bash
 git clone https://github.com/aysh01/IBM__SkillsBuild/blob/main/Week%203%20(Day%201)/BreastCancerPrediction.ipynb
 ```
