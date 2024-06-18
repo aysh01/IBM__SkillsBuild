@@ -1,7 +1,6 @@
-<h1>Breast Cancer Prediction</h1>
+## Breast Cancer Prediction
 This project focuses on predicting breast cancer based on certain features using machine learning techniques.
 
-<hr>
 <h2>Table of Contents</h2>
 <ol>Overview</ol>
 <ol>Dataset</ol>
