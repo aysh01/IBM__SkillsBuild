@@ -10,7 +10,7 @@ This project focuses on predicting breast cancer based on certain features using
 <ol>Usage</ol>
 <ol>Models</ol>
 <ol>Evaluation</ol>
-<ol>License</ol><br><hr>
+<ol>License</ol><hr>
 Overview
 The goal of this project is to build a machine learning model that can predict whether a breast mass is malignant or benign based on features such as size, shape, texture, and other characteristics extracted from diagnostic images.
 
