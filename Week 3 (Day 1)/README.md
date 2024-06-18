@@ -17,22 +17,17 @@ This project focuses on predicting breast cancer based on certain features using
 <h2>Dataset</h2>
 <h3>The dataset used for this project is load_breast_cancer. <br></h3>
 
-Features
-Some of the key features used for prediction include:
+<h2>Dependecies</h2>
 
-Feature 1
-Feature 2
-...
-Dependencies
-Python (version x.x)
-Libraries:
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-[any other libraries]
-Usage
+<h2>Libraries:</h2>
+
+<ul>numpy</ul>
+<ul>pandas</ul>
+<ul>scikit-learn</ul>
+<ul>matplotlib</ul>
+<ul>seaborn</ul>
+<hr>
+<h1>Usage</h1>
 To run the project locally, follow these steps:
 
 Clone the repository:
