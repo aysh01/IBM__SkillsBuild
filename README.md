@@ -14,7 +14,7 @@
   <img src="https://github.com/aysh01/IBM__SkillsBuild/blob/main/Offer-letter.jpg" width="300" height="300"/><br>
       <hr>
       <div align="left">
-:woman_technologist: This, is a IBM SkillsBuild Internship which is provided by Edunet Foundation..<br>
+:woman_technologist: This, is a IBM SkillsBuild Internship which is provided by <a href="https://www.linkedin.com/company/edunetfoundation/">Edunet Foundation..</a><br>
       Here, you'll get all Internship task done by me during my Java Programming Internship in Oasis Infobyte. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 :mailbox:How to reach me: <a href="https://www.linkedin.com/in/aayush-kantak-88a7b4271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
