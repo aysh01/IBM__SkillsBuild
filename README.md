@@ -2,7 +2,7 @@
   <a href="https://lnkd.in/dsmnU-Bu">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbq2Q1Yk-zpyUJZXMbHwcOX_RzfAYoWKnl24_YkqDT-AYSPcbaJFWXpN8&s=10" width="100"/>
   </a><br>
-    <a href="https://ayssh.netlify.app">
+    <a href="https://www.linkedin.com/posts/aayush-kantak_skillsbuild-elearning-entrylevelpositions-activity-7208417643400224769-xE3j?utm_source=share&utm_medium=member_android">
       <img src="https://img.shields.io/badge/Website-blue?logo=dependabot" alt="Website"/>
   </a><br>
         <img src="https://komarev.com/ghpvc/?username=aysh01&style=flat-square&color=blue" alt=""/>
