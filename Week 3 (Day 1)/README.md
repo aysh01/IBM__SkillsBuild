@@ -60,5 +60,5 @@ Commit your changes (git commit -am 'Add new feature')
 Create a new Pull Request
 
 ## License
-This project is licensed under the [License Name] License.
+This project is licensed under the [Apache License](http://www.apache.org/licenses/)
 
