@@ -37,6 +37,10 @@ git clone https://github.com/aysh01/IBM__SkillsBuild.git
 ```python
 pip install -r requirements.txt
 ```
+## Output
+![download (1)](https://github.com/aysh01/IBM__SkillsBuild/assets/120012051/32bbe9f7-9e77-4a04-8f4b-4f9493886e5c)
+![download](https://github.com/aysh01/IBM__SkillsBuild/assets/120012051/f356b6b9-677e-433f-be5a-8da4838651c7)
+![download (2)](https://github.com/aysh01/IBM__SkillsBuild/assets/120012051/3e1d5f28-67a3-4423-86d9-4c62b02a3633)
 
 ## Contributing
 Contributions are welcome. If you want to contribute to this project, please follow these steps:
