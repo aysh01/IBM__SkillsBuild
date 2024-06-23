@@ -5,10 +5,8 @@ This project focuses on data analytics of the summary of Shipment Info..
 <ol>Overview</ol>
 <ol>Dataset</ol>
 <ol>Features</ol>
-<ol>Dependencies</ol>
-<ol>Usage</ol>
-<ol>Models</ol>
-<ol>Evaluation</ol>
+<ol>Data Preprocessing</ol>
+<ol>EDA</ol>
 <ol>License</ol><hr>
 
 ## Overview
