@@ -21,7 +21,6 @@ This project focuses on data analytics of the summary of Shipment Info..
 ```bash
 numpy
 pandas
-scikit-learn
 matplotlib
 seaborn
 ```
