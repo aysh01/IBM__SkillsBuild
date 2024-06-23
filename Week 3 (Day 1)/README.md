@@ -34,7 +34,7 @@ To run the project locally, follow these steps:
 
 ## Clone the repository:
 ```bash
-git clone https://github.com/aysh01/IBM__SkillsBuild/blob/main/Week%203%20(Day%201)/BreastCancerPrediction.ipynb
+git clone https://github.com/aysh01/IBM__SkillsBuild.git
 ```
 ## Install dependencies:
 ```python
