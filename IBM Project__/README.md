@@ -10,7 +10,7 @@ This project focuses on data analytics of the summary of Shipment Info..
 <ol>License</ol><hr>
 
 ## Overview
-<h1>The goal of this project is to build a machine learning model that can predict whether a breast mass is malignant or benign based on features such as size, shape, texture, and other characteristics extracted from diagnostic images.</h1>
+<h1>The goal of this project is to build a data analytics project based to predict the Ship Logistics Info..<br>Predicting the Exact Number of Days for Shipment Duration.</h1>
 
 <h2>Dataset</h2>
 <h3>The dataset used for this project is load_breast_cancer. <br></h3>
