@@ -1,0 +1,17 @@
+{
+	"fields": [
+		"prediction",
+		"probability"
+	],
+	"values": [
+		[
+			"West",
+			[
+				0,
+				0,
+				0,
+				1
+			]
+		]
+	]
+}
